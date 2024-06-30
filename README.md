@@ -22,6 +22,6 @@ The price of each flower branch is R Toman, which is the same for all rose branc
   ## How to run
 run this code in exact directory wich `farmer.py` locaated
 ```
-python src/main.py
+python farmer.py
 ```
 
