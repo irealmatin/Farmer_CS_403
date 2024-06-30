@@ -15,3 +15,7 @@ In addition to the fixed amount of 10 cubic meters
 The flowers of the rose bushes are of good quality that are sold
 The price of each flower branch is R Toman, which is the same for all rose branches.
 
+- R : The price of each flower
+- T : static variable
+- P : Water consumption coefficient for trees
+
